@@ -19,20 +19,31 @@ nav {
 }
 
 section {
-    background-color: red;
+    background-color: white;
 }
 
 .image-box {
-    background-color: pink;
-    border: 1px black;
+    margin: 1.5em;
+    padding: 1.5em;
+    background-color: lightgray;
+    border: 1px solid black;
+    box-shadow: 2px 2px 10px black;
+
 }
 
 img {
+    display: block;
     max-width: 100%;
+    box-shadow: 2px 2px 10px black;
+    margin: auto;
+}
+
+figcaption {
+    margin-top: .5em;
 }
 
 main {
-    background-color: black;
+    background-color: orange;
 }
 
 footer {

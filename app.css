@@ -1,0 +1,28 @@
+. {
+    margin: 0%;
+}
+
+header {
+    background-color: aqua;
+}
+
+nav {
+    background-color: blue;
+}
+
+section {
+    background-color: red;
+}
+
+.image-box {
+    background-color: pink;
+    border: 1px black;
+}
+
+main {
+    background-color: greenyellow;
+}
+
+footer {
+    background-color: magenta;
+}

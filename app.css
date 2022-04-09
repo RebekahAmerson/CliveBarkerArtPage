@@ -1,6 +1,6 @@
 * {
-    margin: 0%;
-    padding: 0%;
+    margin: 0;
+    padding: 0;
 }
 
 body {
@@ -16,10 +16,12 @@ header {
 
 section {
     background-color: white;
+    padding: .75em 0;
+    display: grid;
 }
 
 .image-box {
-    margin: 1.5em;
+    margin: .75em 1.5em 1.5em;
     padding: 1.5em;
     background-color: lightgray;
     border: 1px solid black;

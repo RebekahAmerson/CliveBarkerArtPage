@@ -28,7 +28,7 @@ section {
     background-color: lightgray;
     border: 1px solid black;
     box-shadow: 2px 2px 10px black;
-
+    display: grid;
 }
 
 img {
@@ -40,9 +40,8 @@ img {
 
 figcaption {
     margin-top: 2em;
+    align-self: end;
 }
-
-main {}
 
 footer {
     padding: 1em;

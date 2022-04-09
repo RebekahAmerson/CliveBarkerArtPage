@@ -4,7 +4,7 @@
 }
 
 body {
-    background-color: teal;
+    background-color: rgb(79, 80, 80);
 }
 
 header {
@@ -37,7 +37,7 @@ img {
 }
 
 figcaption {
-    margin-top: .5em;
+    margin-top: 2em;
 }
 
 main {
@@ -45,5 +45,16 @@ main {
 }
 
 footer {
-    background-color: magenta;
+    padding: 1em;
+    font-size: 1em;
+}
+
+a:link,
+a:visited {
+    color: black;
+}
+
+a:hover,
+a:active {
+    color: red;
 }
